@@ -97,10 +97,4 @@ AWS-hosted-Virtual-Classroom-and-Learning-Platform/
 
 This project showcases how web applications can be effectively deployed and scaled using AWS. With Flask at its core and AWS services powering the backend, it provides a modern, secure, and user-friendly experience for online learning platforms.
 
----
-
-## 🔗 Demo and Source Code
-
-- 🎥 [Demo Video](https://drive.google.com/file/d/1sXFfP4cZmmT8hJ0h3voknxtMfanGDPlj/view?usp=sharing)  
-- 🧾 [GitHub Repository](https://github.com/Rohitmh09/AWS-hosted-Virtual-Classroom-and-Learning-Platform-main.git)
-# Cloud_AWS
+--
